@@ -1,0 +1,12 @@
+# Protocols Catalog — Mint-to Logic™
+**Scope:** Canonical catalog of Mint-to Logic™ protocols + trigger systems with recorded, near‑verbatim roles.
+
+## Contents
+- `protocols.md` — all 28 protocols (definition, role, checkpoints).
+- `/templates/protocol-spec-template.md` — spec format to split into per‑protocol files.
+- `/evidence/prior-art-mapping.md` — source tags to this project’s threads.
+- `/diagrams` — lifecycle and overlays (optional).
+
+## Use
+- Treat `protocols.md` as the master list.
+- When stable, split each into `/protocols/<name>.md` using the template.
